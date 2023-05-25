@@ -6,8 +6,8 @@ The objective of this assignment is to demonstrate my proficiency as a full-stac
 
 ### Steps To Run Backend
 
-- `git clone https://github.com/Jiya-Ull-Haq/powercred_a`,
-- `cd powercred_a`
+- `git clone https://github.com/Jiya-Ull-Haq/power_ca_backend`,
+- `cd power_ca_backend`
 - `python3 -m venv venv`,
 - `source ./venv/bin/activate`,
 - `pip3 install -r requirements.txt`,
