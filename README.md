@@ -16,7 +16,7 @@ The objective of this assignment is to demonstrate my proficiency as a full-stac
 ### Technologies Used
 
 - `Python, FastAPI (Backend Framework)`,
-- `SQLite3 (Sql database)`,
+- `SQLite3 (Sql database)` (Automatic Migration, Code First Approach)
 
 - `sqlalchemy for ORM`,
 - `JWT for securing API endpoints`
