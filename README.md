@@ -32,3 +32,14 @@ The objective of this assignment is to demonstrate my proficiency as a full-stac
 - pca.db
 
 ---
+
+### API END POINTS
+
+| Request | URL |
+| - | - |
+| (POST) | /login
+| (POST) | /register
+| (POST) | /create-task
+| (GET)  | /get-tasks
+| (PUT)  | /update-task
+| (GET)  | /get-users
