@@ -31,15 +31,14 @@ The objective of this assignment is to demonstrate my proficiency as a full-stac
 - main.py
 - pca.db
 
----
 
 ### API END POINTS
 
-| Request | URL |
-| - | - |
-| (POST) | /login
-| (POST) | /register
-| (POST) | /create-task
-| (GET)  | /get-tasks
-| (PUT)  | /update-task
-| (GET)  | /get-users
+| Request | URL               | Description           |
+| -       | -                 | -                     |
+| (POST)  | /login            | Logs in a user.       |
+| (POST)  | /register         | Registers a new user. |
+| (POST)  | /create-task      | Creates a new task.   |
+| (GET)   | /get-tasks        | Gets all tasks.       |
+| (PUT)   | /update-task      | Updates a task.       |
+| (GET)   | /get-users        | Gets all users.       |
